@@ -11,3 +11,4 @@ list store date randomely in the memory
 
  help fast mathematical calculation
  '''
+# mathematical operations are difficult in list
