@@ -8,3 +8,10 @@ print(a1)
 print(a1.ndim)
 print(a1.shape)
 print(a1.size)
+
+# out put:-
+'''[10 20 30 40 50]
+1
+(5,)
+5
+PS'''
